@@ -1,0 +1,19 @@
+.checkout-page {
+    background-color: #F0F0F5;
+    min-height: 100vh;
+    padding: 16px;
+    font-family: 'Manrope', sans-serif;
+  }
+  
+  .proceed-button {
+    background-color: #F05A26;
+    color: white;
+    font-size: 18px;
+    width: 100%;
+    padding: 14px;
+    margin-top: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
