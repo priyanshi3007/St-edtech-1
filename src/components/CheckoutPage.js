@@ -14,13 +14,13 @@ const CheckoutPage = () => {
         name="Caribbean Spicy Zinger Burger"
         calories="300 Kcal"
         price="219"
-        imageUrl=""
+        imageUrl="Burger.png"
       />
       <Item 
         name="Cajun Veg Burger"
         calories="210 Kcal"
         price="288"
-        imageUrl="path-to-image"
+        imageUrl="burger2.png"
       />
       <FrequentlyOrdered />
       <DeliveryInfo address="23rd Avenue, JP Nagar, Bangalore" />

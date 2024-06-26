@@ -8,17 +8,17 @@ const FrequentlyOrdered = () => {
       <div className="items-container">
         {/* Repeat this block for each frequently ordered item */}
         <div className="item">
-          <img src="" alt="Fanta" className="item-image" />
+          <img src="Fanta.png" alt="Fanta" className="item-image" />
           <p className="item-name">Fanta - 1 PET</p>
           <p className="item-price">₹89</p>
         </div>
         <div className="item">
-          <img src="" alt="Fanta" className="item-image" />
+          <img src="Fanta.png" alt="Fanta" className="item-image" />
           <p className="item-name">Fanta - 1 PET</p>
           <p className="item-price">₹89</p>
         </div>
         <div className="item">
-          <img src="" alt="Fanta" className="item-image" />
+          <img src="Fanta.png" alt="Fanta" className="item-image" />
           <p className="item-name">Fanta - 1 PET</p>
           <p className="item-price">₹89</p>
         </div>
