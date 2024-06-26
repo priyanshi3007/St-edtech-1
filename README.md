@@ -1,3 +1,4 @@
+![image](https://github.com/priyanshi3007/St-edtech-1/assets/105947047/304ed560-a6f6-4f6b-91f6-4b4b0c181b51)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
